@@ -10,6 +10,6 @@ public class Program
         var d2 = calculator1.Subtract();
         var m2 = calculator1.Multiply();
         var di2 = calculator1.Divide();
-        Console.WriteLine("This is an outpput");
+         for(long) i= 10; 1<20
     }
 }
